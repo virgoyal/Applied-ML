@@ -1,0 +1,1 @@
+Logistic Regression, KNN, Decision Trees, Neural Networks
